@@ -1,1 +1,2 @@
-chrome.exe
+PWAAT.exe
+GenshinImpact.exe
